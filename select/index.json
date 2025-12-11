@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Shangri-La",
+  "base_artist": "angela",
+  "createdAt": "2025-12-11T11:51:00.470570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sucker's Shangri-La",
+      "artist": "Lower Dens",
+      "has_synced": true,
+      "path": "select/01_Sucker's_Shangri-La_Lower_Dens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "M. Ward",
+      "has_synced": true,
+      "path": "select/02_Shangri-La_M._Ward.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Barbara (Shangri-La)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/03_Barbara_(Shangri-La)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/04_Shangri-La_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trouble in Shangri-La",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/05_Trouble_in_Shangri-La_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shangri-La (Edit)",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/06_Shangri-La_(Edit)_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/07_Shangri-La_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "Wayne Newton",
+      "has_synced": false,
+      "path": "select/08_Shangri-La_Wayne_Newton.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "Digitalism",
+      "has_synced": true,
+      "path": "select/09_Shangri-La_Digitalism.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "EoB",
+      "has_synced": true,
+      "path": "select/10_Shangri-La_EoB.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "Nightmares In Wax",
+      "has_synced": false,
+      "path": "select/11_Shangri-La_Nightmares_In_Wax.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shangri-La (Outro)",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/12_Shangri-La_(Outro)_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shangri-La (Outro) (Bonus Track)",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/13_Shangri-La_(Outro)_(Bonus_Track)_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Road to Shangri-La",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/14_The_Road_to_Shangri-La_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Road to Shangri‐La",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/15_The_Road_to_Shangri‐La_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shangri-La",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/16_Shangri-La_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shangri La",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/17_Shangri_La_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Our Shangri-La",
+      "artist": "Mark Knopfler",
+      "has_synced": false,
+      "path": "select/18_Our_Shangri-La_Mark_Knopfler.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shangri-La",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/pl_01_Shangri-La_angela.txt"
+    }
+  ]
+}
